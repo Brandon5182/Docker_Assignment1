@@ -18,11 +18,11 @@ In this assignment, we will set up a web server using Docker Desktop. Below are 
 
 <p align="center">
 Begin the syntax and run it in detached mode: <br/>
-<img src="https://i.imgur.com/zB52Bl8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yg7D3Ok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H43AKTn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>

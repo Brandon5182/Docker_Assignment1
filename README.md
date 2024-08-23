@@ -21,28 +21,28 @@ Begin the syntax and run it in detached mode: <br/>
 <img src="https://i.imgur.com/yg7D3Ok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Define and expose the port and use port binding to link them:  <br/>
 <img src="https://i.imgur.com/H43AKTn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Name the container: <br/>
+<img src="https://i.imgur.com/90G2qYc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select an image:  <br/>
+<img src="https://i.imgur.com/hKkeRtn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the container:  <br/>
+<img src="https://i.imgur.com/bCQtv3Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+BONUS! Look at the process in which the image was created:  <br/>
+<img src="https://i.imgur.com/xPYrvD9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the web server through localhost:  <br/>
+<img src="https://i.imgur.com/JRuTrfF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
